@@ -4,3 +4,4 @@ npm-debug.log
 doc/*
 /coverage/
 /.nyc_output/
+.env

@@ -20,6 +20,8 @@
   "dependencies": {
     "botkit": "^0.2.2",
     "chrono-node": "^1.0.8",
+    "dotenv": "^2.0.0",
+    "firebase": "^3.4.1",
     "moment": "^2.10.6",
     "redact-object": "^2.0.0",
     "winston": "^2.2.0"
@@ -27,6 +29,7 @@
   "devDependencies": {
     "coveralls": "^2.11.12",
     "faucet": "0.0.1",
+    "firebase-server": "^0.7.0",
     "jsdoc": "^3.4.0",
     "nyc": "^8.1.0",
     "semistandard": "^9.0.0",
